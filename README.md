@@ -19,5 +19,7 @@ RenConst[--] - 1-loop SM counterterms, "aqed" multiplies photon terms of externa
 
 The packages can be loaded into a mathematica session separately or all together using Main1loop.m
 
+If using/modifying make sure to cite the proper sources.
+
 Daniel Wiegand (04/28/2022)
 
